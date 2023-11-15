@@ -1,0 +1,48 @@
+@font-face {
+  font-family: Retrade-Medium;
+  src: url("C:/Users/Richs/Downloads/Retrade/Retrade-Medium.ttf");
+}
+body {
+    font-family: "Retrade-Medium", Georgia;
+    margin: 0;
+    text-align: center;
+  }
+  header {
+    background-color: #3e0161;
+    color: #fff;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+    text-align: center;
+  } 
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  }
+  nav a:hover {
+    background-color: #ccc;
+  }
+  main {
+    padding: 20px;
+  }
+  section {
+    margin-top: 20px;
+  }
+  h2 {
+    margin-top: 0;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul li {
+    margin-bottom: 10px;
+  }
+  footer {
+    background-color: #ccc;
+    padding: 20px;
+  }
