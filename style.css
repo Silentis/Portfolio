@@ -1,9 +1,6 @@
-@font-face {
-  font-family: Retrade-Medium;
-  src: url("C:/Users/Richs/Downloads/Retrade/Retrade-Medium.ttf");
-}
+
 body {
-    font-family: "Retrade-Medium", Georgia;
+    font-family: "Oswald", Georgia;
     margin: 0;
     text-align: center;
   }
